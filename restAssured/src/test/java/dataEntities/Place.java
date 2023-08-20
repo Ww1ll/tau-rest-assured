@@ -1,4 +1,4 @@
-package dataEntitites;
+package dataEntities;
 
 import com.fasterxml.jackson.annotation.*;
 
