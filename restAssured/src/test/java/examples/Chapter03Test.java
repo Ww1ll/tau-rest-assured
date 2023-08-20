@@ -1,3 +1,5 @@
+package examples;
+
 import com.tngtech.java.junit.dataprovider.*;
 import org.junit.Test;
 import org.junit.runner.RunWith;
